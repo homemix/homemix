@@ -1,7 +1,8 @@
 - 👋 Hi, I’m kennedy wambua @homemix
 - 👀 I’m interested in busines process automation.
 - 🌱 My favourite tech stack is Python Django and Flask with Relational databases like Postgres and Mysql.
-- 🌱 My second stack is PHP laravel, Codeigniter and wordpress sites.
+- 🌱 My second stack is mobile applications especially flutter .
+- 🌱 My third stack is PHP laravel, Codeigniter and wordpress sites.
 - 💞️ I’m looking on to new opportunities and career growth to a world class software developer.
 - 📫 How to reach me? Email me at kenmutati@gmail.com and we will catch up.
 -  Portfolio: https://homemix.github.io/
